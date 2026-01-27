@@ -1,8 +1,6 @@
 # AWS-Cloud-CSN-Bootcamp-2025
 My AWS Cloud CSN Journey
 
-# AWS Cloud CSN Bootcamp (2025)
-
 ## Overview
 
 The **AWS Cloud CSN Bootcamp (2025)** was an intensive, hands-on cloud computing program designed to build strong foundational and practical skills in **Amazon Web Services (AWS)**. The bootcamp focused on real-world cloud scenarios, core AWS services, security best practices, and cloud architecture fundamentals, preparing participants for entry-level cloud, DevOps, and cloud engineering roles.
