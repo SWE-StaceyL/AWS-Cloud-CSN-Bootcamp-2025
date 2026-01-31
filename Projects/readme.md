@@ -1,4 +1,4 @@
-<img width="801" height="720" alt="email verification received" src="https://github.com/user-attachments/assets/df795a56-df86-47a0-a2a2-77e35acbde2c" /><img width="1900" height="633" alt="Welcome to Nginx" src="https://github.com/user-attachments/assets/4573d197-d11f-4977-aa71-098af62dd98d" />
+
 Aws Cloud Csn Bootcamp – 2025
 
 ### Overview
@@ -197,6 +197,9 @@ Deployed Python Code
 
 Email Identity Configuration
 <img width="1598" height="744" alt="email identity setup" src="https://github.com/user-attachments/assets/53d743fc-1430-4955-b8e6-5a847fd7bc8d" />
+
+Email Recived
+<img width="833" height="753" alt="Upload email received" src="https://github.com/user-attachments/assets/28166cf6-9e7d-487b-a916-feb158115d61" />
 
 Email Verification
 <img width="801" height="720" alt="email verification received" src="https://github.com/user-attachments/assets/1c64d150-2d8e-44c6-96c3-74d7dfb6cda4" />
