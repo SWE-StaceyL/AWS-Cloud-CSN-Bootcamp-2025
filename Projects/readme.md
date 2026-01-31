@@ -1,4 +1,4 @@
-
+<img width="801" height="720" alt="email verification received" src="https://github.com/user-attachments/assets/df795a56-df86-47a0-a2a2-77e35acbde2c" /><img width="1900" height="633" alt="Welcome to Nginx" src="https://github.com/user-attachments/assets/4573d197-d11f-4977-aa71-098af62dd98d" />
 Aws Cloud Csn Bootcamp – 2025
 
 ### Overview
@@ -121,101 +121,96 @@ Running Cluster
 Welcome to Metabase Page
 <img width="1907" height="989" alt="Setup Page" src="https://github.com/user-attachments/assets/cf198b59-d622-4928-9989-4420ccd9b3ac" />
 
+### Week 7 – Monitoring with Amazon CloudWatch
 
-Week 7 – Monitoring with Amazon CloudWatch
+What I learned: CloudWatch metrics and monitoring, CPU and memory utilization tracking and Observability for containerized workloads
 
-What I learned:
+How I accomplished it: I Monitored ECS services using CloudWatch, Analysed CPU utilization metrics and then Verified logs and performance insights
 
-CloudWatch metrics and monitoring
+Nginx Cloudwatch
+<img width="1906" height="927" alt="nginx cloudwatch" src="https://github.com/user-attachments/assets/b670338d-5299-463c-ad8f-22dfdd267fba" />
 
-CPU and memory utilization tracking
+CPU Utilization
+<img width="1881" height="705" alt="CPUUtilization" src="https://github.com/user-attachments/assets/c0ee0dfb-4ba7-45af-8dea-eb9a0cea5add" />
 
-Observability for containerized workloads
+Nginx Task Definition
+<img width="925" height="882" alt="nginx task definition" src="https://github.com/user-attachments/assets/d28f14c9-05ee-4eec-9414-a6622557b7a1" />
 
-How I accomplished it:
+Running Service
+<img width="1887" height="668" alt="running service" src="https://github.com/user-attachments/assets/a623e2fe-af83-4751-8eb9-3be345d0fb54" />
 
-Monitored ECS services using CloudWatch
+Welcome to Nginx!
+<img width="1900" height="633" alt="Welcome to Nginx" src="https://github.com/user-attachments/assets/beacc106-44d4-47af-91e4-a29e0f6cfeab" />
 
-Analysed CPU utilization metrics
+###v Week 8 – Static Website Hosting (S3 & CloudFront)
 
-Verified logs and performance insights
+What I learned: Hosting static websites on Amazon S3, CloudFront content delivery and Bucket policies and permissions
 
-Week 8 – Static Website Hosting (S3 & CloudFront)
+How I accomplished it: I Uploaded HTML files to an S3 bucket then Configured bucket policies for public access and Set up CloudFront for global content delivery.
 
-What I learned:
 
-Hosting static websites on Amazon S3
 
-CloudFront content delivery
+Cloudfront Configuration
+<img width="1679" height="750" alt="Cloudfront Setup" src="https://github.com/user-attachments/assets/3a4bc269-97f1-4406-87fd-38eb371bbf71" />
 
-Bucket policies and permissions
+HTML File 
+<img width="1636" height="405" alt="HTML upload" src="https://github.com/user-attachments/assets/e976993e-cd34-45fc-ab8d-eba1bfed41ce" />
 
-How I accomplished it:
+S3 Bucket Properties
+<img width="1583" height="878" alt="S3 Bucket Properties" src="https://github.com/user-attachments/assets/6b9e5a6a-6d3c-437d-9980-2f72e51d48aa" />
 
-Uploaded HTML files to an S3 bucket
+Website Hosting on AWS
+<img width="1884" height="922" alt="Stacey L  Portfolio Stactic Website" src="https://github.com/user-attachments/assets/0452aaed-96d9-459e-bbb4-2f7572434078" />
 
-Configured bucket policies for public access
+### Week 9 – Domain, SSL & Secure Hosting
 
-Set up CloudFront for global content delivery
+What I learned: Route 53 DNS management, SSL/TLS with AWS Certificate Manager and HTTPS-enabled websites
 
-Week 9 – Domain, SSL & Secure Hosting
+How I accomplished it: I Registered and configured a domain and Validated an SSL certificate, Linked Route 53, CloudFront, and ACMl, uccessfully deployed a secure HTTPS website.
 
-What I learned:
+Route 53
+<img width="1610" height="623" alt="route 53 record" src="https://github.com/user-attachments/assets/f797bc7d-e6a3-41ac-a79a-084b6fd6ab49" />
 
-Route 53 DNS management
+Hosted Zone
+<img width="1210" height="706" alt="Hosted Zone" src="https://github.com/user-attachments/assets/18048a86-3609-4e34-9f67-d704de54e9fd" />
 
-SSL/TLS with AWS Certificate Manager
+SSL Certificate
+<img width="1899" height="931" alt="certificate status issed" src="https://github.com/user-attachments/assets/fc317ee7-7acc-4d41-b3ea-4b291019d385" />
 
-HTTPS-enabled websites
+Portfolio By StaceyL 
+<img width="1895" height="978" alt="portfoliobystaceyl co za" src="https://github.com/user-attachments/assets/fc0f48ea-7259-4cf2-bda2-682351fc407f" />
 
-How I accomplished it:
+### Week 10 – Serverless Automation (Lambda, S3, SES)
 
-Registered and configured a domain
+What I learned: AWS Lambda fundamentals, Event-driven architecture and Logging with CloudWatch, Email notifications using SES
 
-Validated an SSL certificate
+How I accomplished it: I Created an S3-triggered Lambda function (Python) and Configured IAM roles and environment variables. I Integrated Amazon SES for email notifications then I Verified logs and execution via CloudWatch. 
 
-Linked Route 53, CloudFront, and ACM
+CloudWatch
+<img width="1876" height="767" alt="cloudwatch" src="https://github.com/user-attachments/assets/868bd152-2683-4aea-aece-c6aa34c5115b" />
 
-Successfully deployed a secure HTTPS website
+Merics
+<img width="1889" height="915" alt="cloudwatch log week 10 task png uploaded" src="https://github.com/user-attachments/assets/4ce04bd0-6040-4f7f-b976-eb07cfdaea46" />
 
-Week 10 – Serverless Automation (Lambda, S3, SES)
+Deployed Python Code
+<img width="1912" height="937" alt="depolyed python code" src="https://github.com/user-attachments/assets/94b7e102-2f11-4db0-aac3-30116ba40bea" />
 
-What I learned:
+Email Identity Configuration
+<img width="1598" height="744" alt="email identity setup" src="https://github.com/user-attachments/assets/53d743fc-1430-4955-b8e6-5a847fd7bc8d" />
 
-AWS Lambda fundamentals
-
-Event-driven architecture
-
-Logging with CloudWatch
-
-Email notifications using SES
-
-How I accomplished it:
-
-Created an S3-triggered Lambda function (Python)
-
-Configured IAM roles and environment variables
-
-Integrated Amazon SES for email notifications
-
-Verified logs and execution via CloudWatch
+Email Verification
+<img width="801" height="720" alt="email verification received" src="https://github.com/user-attachments/assets/1c64d150-2d8e-44c6-96c3-74d7dfb6cda4" />
 
 Key Skills Gained
 
-AWS IAM & Security
-
-EC2 & VPC Networking
-
-Containerization with ECS
-
-Monitoring with CloudWatch
-
-Static & Secure Web Hosting
-
-Serverless Architecture (Lambda & SES)
+- AWS IAM & Security
+- EC2 & VPC Networking
+- Containerization with ECS
+- Monitoring with CloudWatch
+- Static & Secure Web Hosting
+- Serverless Architecture (Lambda & SES)
 
 Author
-
 Stacey Munnik
 AWS Cloud CSN Bootcamp Graduate (2025)
 
